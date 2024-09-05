@@ -3,7 +3,7 @@
 ## Installation
 
 ```shell
-$ git clone https://github.com/NotRealFrancy/ImageScaler
+$ git clone https://github.com/Fraancescoo/ImageScaler
 ```
 
 ```shell
